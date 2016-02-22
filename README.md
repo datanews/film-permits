@@ -17,7 +17,7 @@
 
 ### Notes
 
-* The project title is sometimes a variation on the actual title (e.g. `Mozart in the Jungle S1` or `The Wolf of Wall Street ReShoots`) or a working title (e.g. `Untitled Female Buddy Cop Movie" instead of `The Heat`, `St James Place` instead of `Bridge of Spies`).
+* The project title is sometimes a variation on the actual title (e.g. `Mozart in the Jungle S1` or `The Wolf of Wall Street ReShoots`) or a working title (e.g. `Untitled Female Buddy Cop Movie` instead of `The Heat`, `St James Place` instead of `Bridge of Spies`).
 * In some cases, the locations listed actually span multiple boroughs, and the `Boro` field only represents the primary borough, or the borough of the first listed location.  In some cases, the `Boro` field is blank.
 * A given shooting permit can have any number of locations listed for a single day.  According to the guidelines, the locations are supposed to be listed in the order they're used on that day.  Most locations are either an address or a range of blocks in the format of `STREET 1 between STREET 2 and STREET 3`.
 * Permits are generally required when asserting the exclusive use of city property, like a sidewalk, a street, or a park. A shooting permit on a street doesn't necessarily mean there is exterior shooting on the street.  It may just mean, for example, that something is being shot indoors and the crew needs special parking privileges for trucks. See ["When a Permit is Required"](http://www1.nyc.gov/site/mome/permits/when-permit-required.page).
