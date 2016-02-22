@@ -5,7 +5,7 @@
 ### Fields
 
 * `ProjectTitle`: The title of the film/television project.
-* `EventName`: A shorthand name for the specific shoot/event being permitted, e.g. "SunsetPark-010815".
+* `EventName`: A shorthand name for the specific shoot/event being permitted, e.g. `SunsetPark-010815`.
 * `EventType`: One of the following: `Scouting Permit`, `Rigging Permit`, `Shooting Permit`, `Film Shoot / Production`, `DCAS Prep/Shoot/Wrap Permit`, `Grid Request`, or `Red Carpet Premiere`.  According to the MOME, `Shooting Permit` and `Film Shoot / Production` are interchangeable.
 * `EventStartDate` and `EventEndDate`: The start and end date and time of the permit.
 * `Location`: One or more locations covered by the permit.
@@ -17,9 +17,9 @@
 
 ### Notes
 
-* The project title is sometimes a variation on the actual title (e.g. "Mozart in the Jungle S1" or "The Wolf of Wall Street ReShoots") or a working title (e.g. "Untitled Female Buddy Cop Movie" instead of "The Heat," or "St James Place" instead of "Bridge of Spies").
+* The project title is sometimes a variation on the actual title (e.g. `Mozart in the Jungle S1` or `The Wolf of Wall Street ReShoots`) or a working title (e.g. `Untitled Female Buddy Cop Movie" instead of `The Heat`, `St James Place` instead of `Bridge of Spies`).
 * In some cases, the locations listed actually span multiple boroughs, and the `Boro` field only represents the primary borough, or the borough of the first listed location.  In some cases, the `Boro` field is blank.
-* A given shooting permit can have any number of locations listed for a single day.  According to the guidelines, the locations are supposed to be listed in the order they're used on that day.  Most locations are either an address or a range of blocks in the format of "STREET 1 between STREET 2 and STREET 3".
+* A given shooting permit can have any number of locations listed for a single day.  According to the guidelines, the locations are supposed to be listed in the order they're used on that day.  Most locations are either an address or a range of blocks in the format of `STREET 1 between STREET 2 and STREET 3`.
 * Permits are generally required when asserting the exclusive use of city property, like a sidewalk, a street, or a park. A shooting permit on a street doesn't necessarily mean there is exterior shooting on the street.  It may just mean, for example, that something is being shot indoors and the crew needs special parking privileges for trucks. See ["When a Permit is Required"](http://www1.nyc.gov/site/mome/permits/when-permit-required.page).
 * Shooting on Department of Citywide Administrative Services (DCAS) property, like in a city courthouse, involves an [additional permitting process](http://www.nyc.gov/html/dcas/html/business/film.shtml).
 * Shooting on MTA property or on state/federal property is subject to a different permitting process.
